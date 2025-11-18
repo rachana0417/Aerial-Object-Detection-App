@@ -1,7 +1,6 @@
-streamlit==1.25.0
-ultralytics==8.3.228
-torch>=2.0.1
+ultralytics==8.2.103
+torch
 opencv-python-headless
 numpy
 Pillow
-pyyaml
+gradio==3.48.0
